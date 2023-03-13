@@ -1,12 +1,14 @@
 # react template
 
-No fancy bullshit
+No eslint bullshit
 
 -   preact
 -   typescript
 -   esbuild
 -   sass, postcss
 -   prettier - 4 spaces, 140 tabWidth
+
+-   Some utils & base components for fast prototyping
 
 Install locally with:
 
